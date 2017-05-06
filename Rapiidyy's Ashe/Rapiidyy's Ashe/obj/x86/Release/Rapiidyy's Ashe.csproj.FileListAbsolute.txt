@@ -1,0 +1,13 @@
+C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
+C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\HesaEngine.Core.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\SharpDX.DirectInput.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\SharpDX.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\fasmdll_managed.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\fasmdll_managed.pdb
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
+C:\Users\EmanOnHD\Desktop\Rapiidyys_Ashe1\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
