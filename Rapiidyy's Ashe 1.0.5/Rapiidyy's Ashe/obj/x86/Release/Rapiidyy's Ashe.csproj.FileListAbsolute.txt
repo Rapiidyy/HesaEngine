@@ -1,6 +1,0 @@
-C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
-C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
-C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
-C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
-C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
-C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
