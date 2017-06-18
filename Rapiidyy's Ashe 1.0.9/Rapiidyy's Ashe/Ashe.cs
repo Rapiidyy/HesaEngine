@@ -9,7 +9,7 @@ namespace Rapiidyy_s_Ashe
     public class Ashe : IScript
     {
         public string Name => ("Rapiidyy's Ashe");
-        public string Version => ("1.0.7");
+        public string Version => ("1.0.9");
         public string Author => ("Rapiidyy");
 
         public static Spell Q, W, E, R;
@@ -37,7 +37,7 @@ namespace Rapiidyy_s_Ashe
         {
             if (Player.Hero != Champion.Ashe) return;
 
-            Chat.Print("Welcome To <b><font color='#389BFF'>Rapiidyy's Ashe</font></b> v.1.0.7");
+            Chat.Print("Welcome To <b><font color='#389BFF'>Rapiidyy's Ashe</font></b> v.1.0.9");
 
             CreateSpells();
             CreateMenu();
@@ -72,10 +72,10 @@ namespace Rapiidyy_s_Ashe
                 {
                     levels[AbilitySequence[i] - 1] = levels[AbilitySequence[i] - 1] + 1;
                 }
-                if (qL < levels[0]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.Q);
-                if (wL < levels[1]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.W);
-                if (eL < levels[2]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.E);
-                if (rL < levels[3]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.R);
+                if (qL < levels[1]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.Q);
+                if (wL < levels[2]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.W);
+                if (eL < levels[3]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.E);
+                if (rL < levels[4]) ObjectManager.Player.Spellbook.LevelSpell(SpellSlot.R);
             }
 
             if(ObjectManager.Player.SpellTrainingPoints > 0)
@@ -149,6 +149,10 @@ namespace Rapiidyy_s_Ashe
             summonerMenu.Add(new MenuCheckbox("healUsage", "Use Heal", true));
             summonerMenu.Add(new MenuSlider("healSlider", "Use Heal if HP is under X%", 0, 100, 15));
 
+            //AutoLevel Menu
+            var levelmenu = Menu.AddSubMenu("Auto Leveler");
+            levelmenu.Add(new MenuCheckbox("autoLevel", "Auto Level Spells"));
+
             //comboMenu
             var comboMenu = Menu.AddSubMenu("Combo");
             comboMenu.Add(new MenuCheckbox("useQ", "Use Q", true));
@@ -159,6 +163,10 @@ namespace Rapiidyy_s_Ashe
             var fleeMenu = Menu.AddSubMenu("Flee");
             fleeMenu.Add(new MenuCheckbox("FuseW", "Use W", true));
             fleeMenu.Add(new MenuCheckbox("FuseR", "Use R"));
+
+            //drawings
+            var drawingsmenu = Menu.AddSubMenu("Drawings");
+            drawingsmenu.Add(new MenuCheckbox("drawW", "W Drawing", true));
 
             //do the E menu here just E wait ok 
             var EMenu = Menu.AddSubMenu("EMenu");
@@ -187,7 +195,11 @@ namespace Rapiidyy_s_Ashe
         }
         private void OnDraw(EventArgs args)
         {
-            Drawing.DrawCircle(Player.Position, W.Range, SharpDX.Color.Pink); 
+            if (Menu.Get<MenuCheckbox>("drawW").Checked)
+            {
+                Drawing.DrawCircle(Player.Position, W.Range, SharpDX.Color.Pink);
+            }
+             
         }
         public void OnTick()
         {
@@ -343,7 +355,7 @@ namespace Rapiidyy_s_Ashe
 
                 if (Rprediction.Hitchance >= HitChance.VeryHigh)
                 {
-                    R.Cast(Rprediction.CastPosition);
+                    R.Cast(target);
                 }
             }
         }
