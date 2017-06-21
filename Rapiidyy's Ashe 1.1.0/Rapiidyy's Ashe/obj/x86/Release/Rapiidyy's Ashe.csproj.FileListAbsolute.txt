@@ -1,0 +1,32 @@
+C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
+C:\Users\Hesa\Documents\Git\Rapiidyy\Rapiidyy's Ashe\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\HesaEngine.Core.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\SharpDX.DirectInput.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\SharpDX.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\HesaEngine.Wrapper.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.5\Rapiidyy's Ashe\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.6\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.6\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.6\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\Rapiidyy's Ashe.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\HesaEngine.Core.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.D3DCompiler.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.DirectInput.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\HesaEngine.Wrapper.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\Runtime.dll
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\HesaEngine.Core.dll.config
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.xml
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.D3DCompiler.xml
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\bin\x86\Release\SharpDX.DirectInput.xml
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.csprojResolveAssemblyReference.cache
+C:\Users\EmanOnHD\Desktop\Rapiidyy's Ashe 1.0.9\Rapiidyy's Ashe\obj\x86\Release\Rapiidyy's Ashe.dll
